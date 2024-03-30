@@ -41,7 +41,7 @@ Make sure you have Node.js and npm (or yarn) installed on your local machine.
 
 ### youtube link
 
-[youtube](https://youtu.be/BzgxHs97Ugw)
+[youtube](https://youtu.be/AlUD-wlez-g)
 
 ### Starting the Application
 
